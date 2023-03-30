@@ -19,7 +19,7 @@ export const TableUserByNationality = ({ nationality }: any) => {
     return <div>Loading...</div>;
   }
 
-  console.log(user);
+ 
 
   return (
     <>
